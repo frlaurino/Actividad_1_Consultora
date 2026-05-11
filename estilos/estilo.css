@@ -24,11 +24,6 @@ body {
     padding: 0 24px;
 }
 
-/* 
-tama;os para la pantalla completa
-10vh header
-75vh main
-15vh footer */
 
 header {
     min-height: 80px;
