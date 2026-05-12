@@ -172,6 +172,13 @@ h1 {
     font-size: 0.875rem;
 }
 
+.tarjeta img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    display: block;
+}
+
 .lista-equipo {
     display: flex;
     justify-content: center;
